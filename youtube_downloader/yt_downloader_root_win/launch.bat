@@ -1,0 +1,1 @@
+start /min cmd /c "/yt_downloader/Youtube Downloader.bat"
